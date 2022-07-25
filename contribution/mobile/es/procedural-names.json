@@ -248,7 +248,11 @@
 				"Kunai",
 				"Revolver",
 				"Escopeta",
-				"Cañón sónico"
+				"Cañón sónico",
+				"Pistola PP200",
+				"Garras Mantis",
+				"Escopeta Automatica",
+				"XT34 MODELO Predator"
 			]
 		},
 		"SECONDARY_WEAPON": {
@@ -266,7 +270,11 @@
 				"Pistola pesada",
 				"Rifle Francotirador",
 				"Escopeta",
-				"Subfusil"
+				"Subfusil",
+				"Sarten",
+				"Bate con Pinchos",
+				"Cuchillos Arrojadizos"
+				
 			]
 		},
 		"TERTIARY_WEAPON": {
@@ -288,6 +296,7 @@
 				"Rifle de pulsos",
                                 "Cañón de riel",
                                 "Explosivo"
+				
 			]
 		},
 		"HELMET": {
